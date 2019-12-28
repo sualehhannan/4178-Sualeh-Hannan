@@ -1,0 +1,96 @@
+
+<!-- saved from url=(0051)file:///C:/%20CV%20.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+    <title>CV</title>
+
+</head>
+
+<body>
+    <div style="width:595px;padding:50px;border:black solid
+            1px;position:absolute;left:50%;transform:translate(-50%);">
+
+        <img align="right" src="file:///C:/Yourimage.jpg" height="100px" width="95x">
+        <h4>Muhammad Sualeh Hannan</h4>
+        <div style="line-height: 5px;">
+            <p>Email: <a href="mailto:sualehhannan@gmail.com\">sualehhannan@gmail.com</a></p>
+            <p>Conatct: 0092-349-5964755</p>
+            <p>Address: Block#135 Flat#01 CAT-IV Sector G-11/4 Islamabad</p>
+        </div>
+
+        <div style="font-size: large;">
+            <br>
+            <h4 style="margin-bottom:10px;">About</h4>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An Interesting
+            personality having experience in nearly every field of life.
+            Loves to fulfill challenging tasks. Never gets tired of work.
+        </div>
+        <div style="font-size: large;">
+
+            <h4 style="margin-bottom:10px;">Qualification</h4>
+            <table border="1" style="border-collapse:collapse;width:100%">
+                <tbody><tr>
+                    <th align="left"></th>
+                    <th align="left">Marks Obtained</th>
+                    <th align="left">Total Marks</th>
+                    <th align="left"> Institution</th>
+                </tr>
+
+                <tr>
+                    <td>
+                        <p><b>Matric</b></p>
+                    </td>
+                    <td>924</td>
+                    <td>1050</td>
+                    <td>IMCB, G-10/4, Islamabad</td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <p><b>FSC</b></p>
+                    </td>
+                    <td>884</td>
+                    <td>1100</td>
+                    <td>IMCB, G-10/4, Islamabad</td>
+                </tr>
+            </tbody></table>
+
+
+        </div>
+        <div style="font-size: large;">
+
+            <h4 style="margin-bottom:10px;">Experience</h4>
+            <ul>
+                <li>None</li>
+                
+                
+            </ul>
+        </div>
+        <div style="font-size: large;">
+
+            <h4 style="margin-bottom:10px;">Skills</h4>
+            <ul>
+                <li>Fluent in spoken english</li>
+                
+                <li>Web Searching</li>
+            </ul>
+        </div>
+
+        <div style="font-size: large;">
+
+            <h4 style="margin-bottom:10px;">Hobbies</h4>
+            <ul>
+                <li>Football</li>
+                <li>Gamming</li>
+                <li>Movies &amp; Seasons</li>
+            </ul>
+        </div>
+
+    </div>
+
+
+
+
+
+
+</body></html>
